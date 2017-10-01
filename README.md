@@ -1,4 +1,6 @@
-# Convert CSS in JS
+# Convert CSS in JS (Deprecated)
+
+**This is now combined with the Atom version and being maintained at [https://github.com/ansumanshah/css-in-js](). Please head over there to see the latest code and contribute. 😎**
 
 > Convert kebab-case CSS to camelCase CSS and vice versa
 
